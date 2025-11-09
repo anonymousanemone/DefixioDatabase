@@ -1,0 +1,75 @@
+
+<div class="row">
+    <div class="col-md-6">
+        <label class="form-label">ID number:</label>
+        <input type="number" name="id" id="id" class="form-control" required>
+        <div class="invalid-feedback">ID is required and must be unique.</div>
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">Area:</label>
+        <input type="text" name="area" id="area" class="form-control" placeholder="ex. Rome"required>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <label class="form-label">Provenance:</label>
+        <input type="text" name="provenance" id="provenance" class="form-control" placeholder="ex. necropolis"required>
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">Location:</label>
+        <input type="text" name="location" id="location" class="form-control" placeholder="ex. Italia"required>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <label class="form-label">Date:</label>
+        <input type="text" name="date" id="date" class="form-control" placeholder="ex. 1st-2nd century BCE" required>
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">Language:</label>
+        <input type="text" name="language" id="language" class="form-control" placeholder="ex. Latin" required>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <label class="form-label">Date from:
+            <i class="bi bi-info-circle" data-toggle="tooltip" data-placement="top" title="Select the century. Negative numbers represent BCE, choose 0 for unknown."></i>
+        </label>
+        <select name="date_from" id="date_from" class="form-select" required>
+            <option value="">Select...</option>
+        </select>
+    </div>
+    <div class="col-md-3">
+        <label class="form-label">Date to:
+            <i class="bi bi-info-circle" data-toggle="tooltip" data-placement="top" title="Select the century. Negative numbers represent BCE, choose 0 for unknown."></i>
+        </label>
+        <select name="date_to" id="date_to" class="form-select" required>
+            <option value="">Select...</option>
+        </select>
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">Grouping:</label>
+        <select name="grouping" id="grouping" class="form-select" required>
+            <option value="">Select...</option>
+        </select>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <label class="form-label">Material:
+            <i class="bi bi-info-circle" data-toggle="tooltip" data-placement="top" title="Separate multiple items with commas."></i>
+        </label>
+        <input type="text" name="material" id="material" class="form-control" placeholder="ex. lead" requird>
+    </div>
+    <div class="col-md-6">
+        <label class="form-label">Image filename:</label>
+        <input type="text" name="image" id="image" class="form-control" required>
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-md-12">
+        <label class="form-label">Translation:</label>
+        <textarea name="translation" id="translation" class="form-control" rows="6" required></textarea>
+    </div>
+</div>

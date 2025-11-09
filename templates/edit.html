@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<script type="text/javascript" src="{{ url_for('static', filename = 'edit.js') }}"></script>
+<script>
+    let data = {{ data|tojson }};
+    let keys = {{ keys|tojson }};
+</script>
+
+<div class="container mt-4 overflow-hidden">
+    <div class="card mb-4">
+        <div class="card-body">
+            <h2 class="card-title text-center">Edit Defixio</h2>
+            <div class="alert alert-success d-none" id="success-message">
+                Item successfully updated. <a href="#" id="view-item-link">See it here</a>
+            </div>
+            <form id="edit-form">
+                {% include "form.html" %}
+                <div class="row mb-0">
+                    <div class="col">
+                        <button type="button" class="btn btn-outline-light w-100" id="discard-btn">Discard Changes</button>
+                    </div>
+                    <div class="col">
+                        <button type="submit" class="btn btn-outline-light w-100">Submit</button>
+                    </div>
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</div>
+
+{% endblock %}

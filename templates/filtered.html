@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<!-- Filtered Results Section -->
+<div class="container mt-3" id="results">
+    <h2>{{key}}: {{value}} </h2>
+    {% include 'results.html' %}
+</div>
+
+{% endblock %}

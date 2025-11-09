@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<!-- Search Results Section -->
+<div class="container mt-3">
+    {% if search_query %}
+        <h2>Showing Results for "{{ search_query }}" ({{results|count}})</h2>
+        {% if results %}
+            {% include 'results.html' %}
+        {% else %}
+            <p>No results found</p>
+        {% endif %}
+    {% endif %}
+</div>
+
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<script type="text/javascript" src="{{ url_for('static', filename = 'add.js') }}"></script>
+<script>
+    let keys = {{ keys|tojson }};
+</script>
+
+<div class="container mt-4">
+    <div class="card mb-4">
+        <div class="card-body">
+            <h2 class="card-title text-center">Add Defixio</h2>
+            <div class="alert alert-success d-none" id="success-message">
+                New item successfully created. <a href="#" id="view-item-link">See it here</a>
+            </div>
+            <form id="add-form">
+                {% include "form.html" %}
+                <button type="submit" class="btn btn-outline-light w-100">Submit</button>     
+            </form>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

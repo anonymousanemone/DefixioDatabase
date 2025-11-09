@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<script type="text/javascript" src="{{ url_for('static', filename = 'index.js') }}"></script>
+<script>
+    let data = {{ data|tojson }};
+    let keys = {{ keys|tojson }};
+</script>
+
+    <!-- banner -->
+    <div class="hero-section overlay" style="background: url('{{ url_for('static', filename='images/homepage.png') }}') center/cover no-repeat;">
+        <div class="hero-content">
+            <h1><a href="/browse_all">Curse tablets from the 4th c. BCE to the 5th c. CE</a></h1>
+            <p><a href="https://doi.org/10.30861/9781407315324">Sánchez Natalías, Celia. <i>Sylloge of Defixiones from the Roman West</i>. Oxford, BAR Publishing, 2022.</a></p>
+        </div>
+    </div>
+
+    <!-- top curses -->
+    <div class="container mt-4">
+        <h3 class="small-caps">Hottest Curses on the Block - Melt Your Victims Just Like Lead!</h3>
+        <div class="row mt-3" id="popular-items">
+            <!-- popular items via js -->
+        </div>
+    </div>    
+
+    <!-- browsing -->
+    <!-- <div class="container mt-4">
+        <h3 class="mb-4">Browse by</h3>
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                <form id="searchForm">
+                    <div class="row" id="filtersContainer"></div>
+                    <button type="submit" class="btn btn-primary mt-3">Search</button>
+                </form>
+                <div class="mt-4" id="results"></div>
+            </div>
+        </div>
+    </div> -->
+
+{% endblock %}

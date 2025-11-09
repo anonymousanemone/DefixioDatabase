@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<!-- <script type="text/javascript" src="{{ url_for('static', filename = 'defix.js') }}"></script> -->
+
+<div class="container mt-4">
+    <div class="card" id="defix">
+        <div class="card-body">
+            <h2 class="card-title text-center mb-4">{{ data.id }}. {{ data.area }}</h2>
+            
+            <!-- Two-column layout for general information -->
+            <div class="row">
+                <div class="col-md-6 m-0">
+                    <p><strong>Provenance:</strong>
+                        <a href="{{ url_for('filter', key='provenance', value=data.provenance ) }}">{{ data.provenance }}</a></p>
+                    <p data-bs-toggle="tooltip" title="Date range: [{{data.date_val[0]}}, {{data.date_val[1]}}]">
+                        <strong>Date: </strong>
+                        <a href="{{ url_for('filter', key='date_val', value=data.date_val ) }}">
+                            {{ data.date }}</a></p>
+                    <p><strong>Material: </strong>
+                        {% for m in data.material %}
+                        <a href="{{ url_for('filter', key='material', value=m ) }}">
+                            {{ m }}</a>{% if not loop.last %}, {% endif %}
+                        {% endfor %}</p>
+                </div>
+                <div class="col-md-6 m-0">
+                    <p><strong>Location: </strong>
+                        <a href="{{ url_for('filter', key='location', value=data.location ) }}">{{ data.location }}</a></p>
+                    <p><strong>Language: </strong>
+                        <a href="{{ url_for('filter', key='language', value=data.language ) }}">{{ data.language }}</a></p>
+                    <p><strong>Grouping: </strong>
+                        <a href="{{ url_for('filter', key='grouping', value=data.grouping ) }}">{{ data.grouping }}</a></p>
+                </div>
+                
+            </div>
+
+            <!-- Translation & Image Section -->
+            <div id="translation-image">
+                <div class="row mt-3 two-column">
+                    <div class="col-md-6">
+                        <h5 class="text-center"><strong>Translation</strong></h5>
+                        <p class="border p-3 bg-light">{{ data.translation }}</p>
+                    </div>
+                    <div class="col-md-6 text-center">
+                        <h5><strong>Image</strong></h5>
+                        {% if data.image %}
+                            <img src="{{ url_for('static', filename = 'images/'+data.image) }}" class="img-fluid" alt="Sketch of original defixio">
+                        {% else %}
+                            <p class="text-muted fst-italic">No image available</p>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mb-2 text-right">
+        <a href="{{ url_for('edit', id=data.id ) }}">Edit</a>
+    </div>
+</div>
+
+{% endblock %}
