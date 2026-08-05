@@ -1,0 +1,802 @@
+{
+  "Britannia||Aquae Sulis, Bath": {
+    "lat": 51.3813864,
+    "lon": -2.3596963,
+    "display_name": "Bath, Bath and North East Somerset, West of England, England, United Kingdom",
+    "query": "Bath"
+  },
+  "Britannia||Brandon": {
+    "lat": 52.4482313,
+    "lon": 0.6240803,
+    "display_name": "Brandon, Suffolk, England, United Kingdom",
+    "query": "manual fix"
+  },
+  "Britannia||Bravonium, Leintwardine": {
+    "lat": 52.3619436,
+    "lon": -2.8758069,
+    "display_name": "Leintwardine, Herefordshire, England, United Kingdom",
+    "query": "Leintwardine"
+  },
+  "Britannia||Brean Down (nr Weston-super-Mare, Somerset)": {
+    "lat": 51.3257332,
+    "lon": -3.0275334,
+    "display_name": "Brean Down, Somerset, England, United Kingdom",
+    "query": "Brean Down"
+  },
+  "Britannia||Calleva Atrebatum, Silchester (Hampshire)": {
+    "lat": 51.354043,
+    "lon": -1.1007411,
+    "display_name": "Silchester, Basingstoke and Deane, Hampshire, England, United Kingdom",
+    "query": "Silchester"
+  },
+  "Britannia||Canonium, Kelvedon": {
+    "lat": 51.8391963,
+    "lon": 0.6852534,
+    "display_name": "Kelvedon, Braintree, Essex, England, United Kingdom",
+    "query": "Kelvedon"
+  },
+  "Britannia||Chesterton-on-Fosse": {
+    "lat": 52.2214805,
+    "lon": -1.5148546,
+    "display_name": "Fosse Way, Chesterton and Kingston, Stratford-on-Avon, Warwickshire, England, CV33 9LA, United Kingdom",
+    "query": "Chesterton-on-Fosse"
+  },
+  "Britannia||Clothall": {
+    "lat": 51.9705492,
+    "lon": -0.1507388,
+    "display_name": "Clothall, Baldock, North Hertfordshire, Hertfordshire, England, United Kingdom",
+    "query": "Clothall"
+  },
+  "Britannia||Dodford, Northamptonshire": {
+    "lat": 52.3106138,
+    "lon": -0.865913,
+    "display_name": "Northamptonshire, England, United Kingdom",
+    "query": "Northamptonshire"
+  },
+  "Britannia||East Farleigh, Kent": {
+    "lat": 51.2070749,
+    "lon": 0.7210362,
+    "display_name": "Kent, England, United Kingdom",
+    "query": "Kent"
+  },
+  "Britannia||Eccles": {
+    "lat": 51.3177742,
+    "lon": 0.481066,
+    "display_name": "Eccles, Kent, England, United Kingdom",
+    "query": "manual fix"
+  },
+  "Britannia||Farley Heath, Surrey": {
+    "lat": 51.2715316,
+    "lon": -0.3414524,
+    "display_name": "Surrey, England, United Kingdom",
+    "query": "Surrey"
+  },
+  "Britannia||Fectio, Vechten": {
+    "lat": 52.0635862,
+    "lon": 5.1718557,
+    "display_name": "Vechten, Bunnik, Utrecht, Nederland, 3981 AT, Nederland",
+    "query": "Vechten"
+  },
+  "Britannia||Gelduba, Krefeld-Gellep": {
+    "lat": 51.3306621,
+    "lon": 6.6727866,
+    "display_name": "Gellep-Stratum, Krefeld-Uerdingen, Krefeld, Nordrhein-Westfalen, Deutschland",
+    "query": "Krefeld-Gellep"
+  },
+  "Britannia||Hamble": {
+    "lat": 50.8712423,
+    "lon": -1.3289942,
+    "display_name": "Hamble, Hamble Rail Trail, Hound, Butlocks Heath, Eastleigh, Hampshire, England, SO31 4NL, United Kingdom",
+    "query": "Hamble"
+  },
+  "Britannia||Isca Silurum, Caerleon": {
+    "lat": 51.6120037,
+    "lon": -2.9529041,
+    "display_name": "Caerleon, Newport, Cymru / Wales, United Kingdom",
+    "query": "Caerleon"
+  },
+  "Britannia||Locus Incertus": null,
+  "Britannia||Londinium, London": {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "display_name": "Greater London, England, United Kingdom",
+    "query": "London"
+  },
+  "Britannia||Marlborough Downs": {
+    "lat": 51.3731035,
+    "lon": -1.8540198,
+    "display_name": "Pewsey Downs National Nature Reserve, Stanton St Bernard, Marlborough, Wiltshire, England, United Kingdom",
+    "query": "Marlborough Downs"
+  },
+  "Britannia||Old Harlow": {
+    "lat": 51.7834988,
+    "lon": 0.1339638,
+    "display_name": "Old Harlow, Harlow, Essex, England, CM17 0DW, United Kingdom",
+    "query": "Old Harlow"
+  },
+  "Britannia||Pagans Hill (Chew Stoke, Somerset)": {
+    "lat": 51.363982,
+    "lon": -2.6324411,
+    "display_name": "Pagans Hill, Littleton, Chew Magna, Bath and North East Somerset, West of England, England, BS40 8QJ, United Kingdom",
+    "query": "Pagans Hill"
+  },
+  "Britannia||Puckeridge Braughing": {
+    "lat": 51.8910025,
+    "lon": 0.0259126,
+    "display_name": "Braughing Warren Bourne, Standon, East Hertfordshire, Hertfordshire, England, SG11 1TF, United Kingdom",
+    "query": "Puckeridge Braughing"
+  },
+  "Britannia||Ratae Corieltauvorum, Leicester": {
+    "lat": 52.6362,
+    "lon": -1.1331969,
+    "display_name": "Leicester, City of Leicester, England, LE1 4FB, United Kingdom",
+    "query": "Leicester"
+  },
+  "Britannia||Ratcliﬀe-on-Soar": {
+    "lat": 52.855308,
+    "lon": -1.2646144,
+    "display_name": "Ratcliffe on Soar, Rushcliffe, Nottinghamshire, East Midlands, England, United Kingdom",
+    "query": "Ratcliffe-on-Soar"
+  },
+  "Britannia||Thetford": {
+    "lat": 52.4156001,
+    "lon": 0.748712,
+    "display_name": "Thetford, Breckland, Norfolk, England, United Kingdom",
+    "query": "Thetford"
+  },
+  "Britannia||Uley": {
+    "lat": 51.6852276,
+    "lon": -2.3163762,
+    "display_name": "Uley, Stroud, Gloucestershire, England, United Kingdom",
+    "query": "Uley"
+  },
+  "Britannia||Venta Icenorum, Caistor St Edmund": {
+    "lat": 52.5872052,
+    "lon": 1.299402,
+    "display_name": "Caistor St Edmund, South Norfolk, Norfolk, England, NR14 8QW, United Kingdom",
+    "query": "Caistor St Edmund"
+  },
+  "Britannia||Wanborough": {
+    "lat": 51.5474149,
+    "lon": -1.6979338,
+    "display_name": "Wanborough, Swindon, England, United Kingdom",
+    "query": "Wanborough"
+  },
+  "Britannia||Weeting-with-Broomhill, Norfolk": {
+    "lat": 52.666667,
+    "lon": 1.0,
+    "display_name": "Norfolk, England, United Kingdom",
+    "query": "Norfolk"
+  },
+  "Galliae||Amélie-les-Bains": {
+    "lat": 42.4508434,
+    "lon": 2.6782493,
+    "display_name": "Amélie-les-Bains-Palalda, Céret, Pyrénées-Orientales, Occitanie, France métropolitaine, 66110, France",
+    "query": "Amélie-les-Bains"
+  },
+  "Galliae||Aquae Tarbelliacae, Dax": {
+    "lat": 43.7084065,
+    "lon": -1.0518771,
+    "display_name": "Dax, Landes, Nouvelle-Aquitaine, France métropolitaine, 40100, France",
+    "query": "Dax"
+  },
+  "Galliae||Arverni, Chamalières (Puy-de-Dôme)": {
+    "lat": 45.776018,
+    "lon": 3.0681174,
+    "display_name": "Chamalières, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63400, France",
+    "query": "Chamalières"
+  },
+  "Galliae||Augusta Treverorum, Trier": {
+    "lat": 49.7596208,
+    "lon": 6.6441878,
+    "display_name": "Trier, Trierweiler, Rheinland-Pfalz, Deutschland",
+    "query": "Trier"
+  },
+  "Galliae||Autricum, Chartres": {
+    "lat": 48.4438601,
+    "lon": 1.4881434,
+    "display_name": "Chartres, Eure-et-Loir, Centre-Val de Loire, France métropolitaine, 28000, France",
+    "query": "Chartres"
+  },
+  "Galliae||Autun": {
+    "lat": 46.9510313,
+    "lon": 4.2989478,
+    "display_name": "Autun, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71400, France",
+    "query": "Autun"
+  },
+  "Galliae||Dalheim": {
+    "lat": 49.5433592,
+    "lon": 6.2601063,
+    "display_name": "Dalheim, Canton Remich, Luxembourg",
+    "query": "manual fix"
+  },
+  "Galliae||Durocortorum, Reims": {
+    "lat": 49.2577886,
+    "lon": 4.031926,
+    "display_name": "Reims, Marne, Grand Est, France métropolitaine, 51100, France",
+    "query": "Reims"
+  },
+  "Galliae||Les Martres-de-Veyre": {
+    "lat": 45.6843764,
+    "lon": 3.1903821,
+    "display_name": "Les Martres-de-Veyre, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63730, France",
+    "query": "Les Martres-de-Veyre"
+  },
+  "Galliae||Lutetia, Paris": {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "display_name": "Paris, Île-de-France, France métropolitaine, France",
+    "query": "Paris"
+  },
+  "Galliae||Lydney": {
+    "lat": 51.7259292,
+    "lon": -2.5313485,
+    "display_name": "Lydney, Forest of Dean, Gloucestershire, England, United Kingdom",
+    "query": "Lydney"
+  },
+  "Galliae||L’Hospitalet-du-Larzac": {
+    "lat": 43.9738813,
+    "lon": 3.1921096,
+    "display_name": "L'Hospitalet-du-Larzac, Millau, Aveyron, Occitanie, France métropolitaine, 12230, France",
+    "query": "L’Hospitalet-du-Larzac"
+  },
+  "Galliae||Maar": {
+    "lat": 50.6599803,
+    "lon": 9.3873948,
+    "display_name": "Maar, Lauterbach (Hessen), Vogelsbergkreis, Hessen, Deutschland",
+    "query": "Maar"
+  },
+  "Galliae||Mazan": {
+    "lat": 44.0565965,
+    "lon": 5.1281078,
+    "display_name": "Mazan, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84380, France",
+    "query": "Mazan"
+  },
+  "Galliae||Mediolanum Santonum, Villepouge-Chagnon": {
+    "lat": 45.8819959,
+    "lon": -0.4317887,
+    "display_name": "Chemin de Villepouge, Chagnon, Aumagne, Saint-Jean-d'Angély, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17770, France",
+    "query": "Villepouge-Chagnon"
+  },
+  "Galliae||Mediolanum, Evreux": {
+    "lat": 49.0268903,
+    "lon": 1.1510164,
+    "display_name": "Évreux, Eure, Normandie, France métropolitaine, 27000, France",
+    "query": "Evreux"
+  },
+  "Galliae||Montfo": {
+    "lat": 43.4720398,
+    "lon": 3.2294279,
+    "display_name": "Rue des Terrasses de Montfo, Le Pendut, Magalas, Béziers, Hérault, Occitanie, France métropolitaine, 34480, France",
+    "query": "Montfo"
+  },
+  "Galliae||Murol": {
+    "lat": 45.5733579,
+    "lon": 2.9432269,
+    "display_name": "Murol, Issoire, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63790, France",
+    "query": "Murol"
+  },
+  "Galliae||Rauranum, Rom": {
+    "lat": 46.2928765,
+    "lon": 0.1152415,
+    "display_name": "Rom, Deux-Sèvres, France",
+    "query": "manual fix"
+  },
+  "Galliae||Vindinum, Le Mans (Sarthe)": {
+    "lat": 48.0073849,
+    "lon": 0.1967849,
+    "display_name": "Le Mans, Sarthe, Pays de la Loire, France métropolitaine, France",
+    "query": "Le Mans"
+  },
+  "Galliae||Wolberg": {
+    "lat": 49.6593523,
+    "lon": 5.8529904,
+    "display_name": "Wolberg, Autelbas, Arlon, Luxembourg, Wallonie, 6706, België / Belgique / Belgien",
+    "query": "Wolberg"
+  },
+  "Germania||Aventicum, Avenches": {
+    "lat": 46.879575,
+    "lon": 7.040941,
+    "display_name": "Avenches, District de la Broye-Vully, Vaud, 1580, Schweiz/Suisse/Svizzera/Svizra",
+    "query": "Avenches"
+  },
+  "Germania||Bodegraven": {
+    "lat": 52.0834347,
+    "lon": 4.7510872,
+    "display_name": "Bodegraven, Bodegraven-Reeuwijk, Zuid-Holland, Nederland",
+    "query": "Bodegraven"
+  },
+  "Germania||Brigantium, Bregenz": {
+    "lat": 47.5025779,
+    "lon": 9.7472924,
+    "display_name": "Bregenz, Bezirk Bregenz, Vorarlberg, Österreich",
+    "query": "Bregenz"
+  },
+  "Germania||Centum Prata, Kempraten": {
+    "lat": 47.2383893,
+    "lon": 8.8142984,
+    "display_name": "Kempraten, Gubelfeldstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, St. Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
+    "query": "Kempraten"
+  },
+  "Germania||Colonia Claudia Ara Agrippinensium, Cologne": {
+    "lat": 50.938361,
+    "lon": 6.959974,
+    "display_name": "Köln, Nordrhein-Westfalen, Deutschland",
+    "query": "Cologne"
+  },
+  "Germania||Cruciniacum, Bad Kreuznach": {
+    "lat": 49.8153468,
+    "lon": 7.9125221,
+    "display_name": "Bad Kreuznach, Landkreis Bad Kreuznach, Rheinland-Pfalz, Deutschland",
+    "query": "Bad Kreuznach"
+  },
+  "Germania||Frankfurt am Main": {
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "display_name": "Frankfurt am Main, Hessen, Deutschland",
+    "query": "Frankfurt am Main"
+  },
+  "Germania||Groß Gerau": {
+    "lat": 49.8964205,
+    "lon": 8.4553977,
+    "display_name": "Kreis Groß-Gerau, Hessen, Deutschland",
+    "query": "Groß Gerau"
+  },
+  "Germania||Groß-Gerau": {
+    "lat": 49.8964205,
+    "lon": 8.4553977,
+    "display_name": "Kreis Groß-Gerau, Hessen, Deutschland",
+    "query": "Groß-Gerau"
+  },
+  "Germania||Mogontiacum, Mainz": {
+    "lat": 49.9995205,
+    "lon": 8.2736253,
+    "display_name": "Mainz, Rheinland-Pfalz, Deutschland",
+    "query": "Mainz"
+  },
+  "Germania||Roßdorf, Kr. Darmstadt/Dieburg (Hessen)": {
+    "lat": 49.8665,
+    "lon": 8.7643,
+    "display_name": "Roßdorf, Landkreis Darmstadt-Dieburg, Hessen, Deutschland",
+    "query": "manual fix"
+  },
+  "Germania||Ulpia Noviomagus, Nijmegen": {
+    "lat": 51.8474946,
+    "lon": 5.8637771,
+    "display_name": "Nijmegen, Gelderland, Nederland",
+    "query": "Nijmegen"
+  },
+  "Germania||Waldmössingen": {
+    "lat": 48.2688319,
+    "lon": 8.4856802,
+    "display_name": "Waldmössingen, Schramberg, VVG der Stadt Schramberg, Landkreis Rottweil, Baden-Württemberg, Deutschland",
+    "query": "Waldmössingen"
+  },
+  "Hispania||Aratispi, Villanueva del Cauche": {
+    "lat": 36.9660005,
+    "lon": -4.4425824,
+    "display_name": "Carretera de A-92M a Villanueva de Cauche por Villanueva del Trabuco, Villanueva de Cauche, Antequera, Málaga, Andalucía, 29230, España",
+    "query": "Villanueva del Cauche"
+  },
+  "Hispania||Astigi, Écija": {
+    "lat": 37.5406007,
+    "lon": -5.079589,
+    "display_name": "Écija, Sevilla, Andalucía, España",
+    "query": "Écija"
+  },
+  "Hispania||Baelo Claudia, Bolonia": {
+    "lat": 36.0886603,
+    "lon": -5.7738935,
+    "display_name": "Bolonia, Tarifa, Cádiz, Spain",
+    "query": "manual fix"
+  },
+  "Hispania||Barchín del Hoyo": {
+    "lat": 39.6636596,
+    "lon": -2.0684645,
+    "display_name": "Barchín del Hoyo, Cuenca, Castilla-La Mancha, 16118, España",
+    "query": "Barchín del Hoyo"
+  },
+  "Hispania||Bracara Augusta, Braga": {
+    "lat": 41.5510583,
+    "lon": -8.4280045,
+    "display_name": "Braga, Portugal",
+    "query": "Braga"
+  },
+  "Hispania||Cabrera de Mar": {
+    "lat": 41.5276986,
+    "lon": 2.3925117,
+    "display_name": "Cabrera de Mar, Maresme, Barcelona, Catalunya, 08349, España",
+    "query": "Cabrera de Mar"
+  },
+  "Hispania||Carmo, Carmona": {
+    "lat": 37.4717882,
+    "lon": -5.641291,
+    "display_name": "Carmona, Sevilla, Andalucía, 41410, España",
+    "query": "Carmona"
+  },
+  "Hispania||Celti, Peñaﬂor": {
+    "lat": 37.7084447,
+    "lon": -5.3457347,
+    "display_name": "Peñaflor, Sevilla, Andalucía, 41470, España",
+    "query": "Peñaflor"
+  },
+  "Hispania||Corduba, Cordoba": {
+    "lat": 37.8845813,
+    "lon": -4.7760138,
+    "display_name": "Córdoba, Andalucía, España",
+    "query": "Cordoba"
+  },
+  "Hispania||El Portal": {
+    "lat": 36.6365666,
+    "lon": -6.1330784,
+    "display_name": "El Portal, Jerez de la Frontera, Cádiz, Spain",
+    "query": "manual fix"
+  },
+  "Hispania||Emerita Augusta, Merida": {
+    "lat": 38.9174665,
+    "lon": -6.3443977,
+    "display_name": "Mérida, Badajoz, Extremadura, 06800, España",
+    "query": "Merida"
+  },
+  "Hispania||Emporion, Ampurias": {
+    "lat": 42.1346,
+    "lon": 3.1223,
+    "display_name": "Empúries, L’Escala, Girona, Catalunya, Spain",
+    "query": "manual fix"
+  },
+  "Hispania||Italica, Santiponce": {
+    "lat": 37.4355931,
+    "lon": -6.039916,
+    "display_name": "Santiponce, Sevilla, Andalucía, 41970, España",
+    "query": "Santiponce"
+  },
+  "Hispania||Locus Incertus": null,
+  "Hispania||Saguntum, Sagunto": {
+    "lat": 39.6792916,
+    "lon": -0.2786451,
+    "display_name": "Sagunt / Sagunto, el Camp de Morvedre, València / Valencia, Comunitat Valenciana, España",
+    "query": "Sagunto"
+  },
+  "Hispania||Salacia, Alcácer do Sal": {
+    "lat": 38.3729735,
+    "lon": -8.5122705,
+    "display_name": "Alcácer do Sal, Setúbal, Portugal",
+    "query": "Alcácer do Sal"
+  },
+  "Italia||Altinum, Altino": {
+    "lat": 42.099337,
+    "lon": 14.331615,
+    "display_name": "Altino, Chieti, Abruzzo, Italia",
+    "query": "Altino"
+  },
+  "Italia||Antium, Anzio": {
+    "lat": 41.4471008,
+    "lon": 12.6285618,
+    "display_name": "Anzio, Roma Capitale, Lazio, 00042, Italia",
+    "query": "Anzio"
+  },
+  "Italia||Aquae Populoniae, Campiglia Marittima": {
+    "lat": 43.0401668,
+    "lon": 10.603649,
+    "display_name": "Campiglia Marittima, Livorno, Toscana, Italia",
+    "query": "Campiglia Marittima"
+  },
+  "Italia||Aquilonia, Monte Vairano": {
+    "lat": 41.5497638,
+    "lon": 14.5900272,
+    "display_name": "Monte Vairano, Baranello, Campobasso, Molise, 86011, Italia",
+    "query": "Monte Vairano"
+  },
+  "Italia||Aquinum, Aquino": {
+    "lat": 41.491119,
+    "lon": 13.70471,
+    "display_name": "Aquino, Frosinone, Lazio, 03031, Italia",
+    "query": "Aquino"
+  },
+  "Italia||Ardea": {
+    "lat": 41.608712,
+    "lon": 12.519382,
+    "display_name": "Ardea, Roma Capitale, Lazio, 00040, Italia",
+    "query": "Ardea"
+  },
+  "Italia||Arretium, Arezzo": {
+    "lat": 43.5171442,
+    "lon": 11.7639282,
+    "display_name": "Arezzo, Toscana, Italia",
+    "query": "Arezzo"
+  },
+  "Italia||Ateste, Este": {
+    "lat": 45.2201668,
+    "lon": 11.6589117,
+    "display_name": "Este, Padova, Veneto, 35042, Italia",
+    "query": "Este"
+  },
+  "Italia||Caere, Cerveteri": {
+    "lat": 41.9983319,
+    "lon": 12.0991498,
+    "display_name": "Cerveteri, Roma Capitale, Lazio, 00052, Italia",
+    "query": "Cerveteri"
+  },
+  "Italia||Cales, Calvi Risorta": {
+    "lat": 41.216538,
+    "lon": 14.1287306,
+    "display_name": "Calvi Risorta, Caserta, Campania, Italia",
+    "query": "Calvi Risorta"
+  },
+  "Italia||Capua, Santa Maria Capua Vetere": {
+    "lat": 41.0799063,
+    "lon": 14.2564191,
+    "display_name": "Santa Maria Capua Vetere, Caserta, Campania, 81055, Italia",
+    "query": "Santa Maria Capua Vetere"
+  },
+  "Italia||Castiglione di Paludi": {
+    "lat": 39.5427482,
+    "lon": 16.6974741,
+    "display_name": "Castiglione di Paludi, Percorso Parco Archeologico, Paludi, Cosenza, Calabria, 87060, Italia",
+    "query": "Castiglione di Paludi"
+  },
+  "Italia||Classis, Classe": {
+    "lat": 44.3808671,
+    "lon": 12.2370915,
+    "display_name": "Classe, Ravenna, Emilia-Romagna, 48121, Italia",
+    "query": "Classe"
+  },
+  "Italia||Concordia Sagittaria, Concordia": {
+    "lat": 45.7561044,
+    "lon": 12.8449558,
+    "display_name": "Concordia Sagittaria, Venezia, Veneto, Italia",
+    "query": "manual fix"
+  },
+  "Italia||Copia Thurii, Sybaris": {
+    "lat": 39.7172322,
+    "lon": 16.4898218,
+    "display_name": "Sybaris, Strada Statale 106 Jonica, Cassano all'Ionio, Cosenza, Calabria, 87064, Italia",
+    "query": "Sybaris"
+  },
+  "Italia||Cremona": {
+    "lat": 45.2208641,
+    "lon": 10.037038,
+    "display_name": "Cremona, Lombardia, Italia",
+    "query": "Cremona"
+  },
+  "Italia||Crimisa, Cirò Marina": {
+    "lat": 39.3690917,
+    "lon": 17.1328568,
+    "display_name": "Cirò Marina, Crotone, Calabria, 88811, Italia",
+    "query": "Cirò Marina"
+  },
+  "Italia||Cumae, Cuma": {
+    "lat": 40.8380531,
+    "lon": 14.0559754,
+    "display_name": "Cuma, Bacoli, Napoli, Campania, 80072, Italia",
+    "query": "Cuma"
+  },
+  "Italia||Fontanaccia": {
+    "lat": 44.2569112,
+    "lon": 10.7753503,
+    "display_name": "Fontanaccia, Castellaro, Sestola, Unione dei comuni del Frignano, Modena, Emilia-Romagna, 41029, Italia",
+    "query": "Fontanaccia"
+  },
+  "Italia||Fundi, Fondi": {
+    "lat": 41.3572854,
+    "lon": 13.430031,
+    "display_name": "Fondi, Latina, Lazio, 04022, Italia",
+    "query": "Fondi"
+  },
+  "Italia||Giuncalzu": {
+    "lat": 40.7266104,
+    "lon": 9.2007199,
+    "display_name": "Riu de Giuncalzu, Oscheri/Oschiri, Gallura Nord-Est Sardegna, Sardigna/Sardegna, Italia",
+    "query": "Giuncalzu"
+  },
+  "Italia||Laos, Marcellina": {
+    "lat": 42.0236897,
+    "lon": 12.8070452,
+    "display_name": "Marcellina, Roma Capitale, Lazio, Italia",
+    "query": "Marcellina"
+  },
+  "Italia||Lilybaeum, Marsala": {
+    "lat": 37.7979221,
+    "lon": 12.4342091,
+    "display_name": "Marsala, Trapani, Sicilia, 91025, Italia",
+    "query": "Marsala"
+  },
+  "Italia||Locus Incertus": null,
+  "Italia||Locus Incertus 3": null,
+  "Italia||Locus Incertus 4": null,
+  "Italia||Locus incertus 1": null,
+  "Italia||Locus incertus 2": null,
+  "Italia||Mariana, Lucciana": {
+    "lat": 42.5459392,
+    "lon": 9.4175597,
+    "display_name": "Lucciana, Bastia, Haute-Corse, Corse, France métropolitaine, 20290, France",
+    "query": "Lucciana"
+  },
+  "Italia||Marsi Marruvium, San Benedetto": {
+    "lat": 42.0066937,
+    "lon": 13.6035498,
+    "display_name": "San Benedetto dei Marsi, L’Aquila, Abruzzo, Italia",
+    "query": "manual fix"
+  },
+  "Italia||Minturnae, Minturno": {
+    "lat": 41.2629744,
+    "lon": 13.7465219,
+    "display_name": "Minturno, Latina, Lazio, Italia",
+    "query": "Minturno"
+  },
+  "Italia||Neapolis, Terralba": {
+    "lat": 39.7203011,
+    "lon": 8.6361253,
+    "display_name": "Terraba/Terralba, Aristanis/Oristano, Sardigna/Sardegna, 09098, Italia",
+    "query": "Terralba"
+  },
+  "Italia||Nomentum, Mentana": {
+    "lat": 42.0350216,
+    "lon": 12.6422717,
+    "display_name": "Mentana, Roma Capitale, Lazio, 00013, Italia",
+    "query": "Mentana"
+  },
+  "Italia||Orosei": {
+    "lat": 40.3791803,
+    "lon": 9.6950141,
+    "display_name": "Orosei, Nuoro, Sardigna/Sardegna, 08028, Italia",
+    "query": "Orosei"
+  },
+  "Italia||Ostia": {
+    "lat": 41.7536374,
+    "lon": 12.2857399,
+    "display_name": "Ostia Antica, Roma, Lazio, Italia",
+    "query": "manual fix"
+  },
+  "Italia||Perusia, Perugia": {
+    "lat": 43.1070321,
+    "lon": 12.4029962,
+    "display_name": "Perugia, Umbria, Italia",
+    "query": "Perugia"
+  },
+  "Italia||Petelia, Strongoli": {
+    "lat": 39.2639586,
+    "lon": 17.0520257,
+    "display_name": "Strongoli, Crotone, Calabria, Italia",
+    "query": "Strongoli"
+  },
+  "Italia||Pola, Pula": {
+    "lat": 44.8702281,
+    "lon": 13.8455311,
+    "display_name": "Grad Pula, Istarska županija, Hrvatska",
+    "query": "Pula"
+  },
+  "Italia||Pompeii, Pompei": {
+    "lat": 40.7491267,
+    "lon": 14.5006415,
+    "display_name": "Pompei, Napoli, Campania, 80045, Italia",
+    "query": "Pompei"
+  },
+  "Italia||Roccagloriosa": {
+    "lat": 40.108662,
+    "lon": 15.4333486,
+    "display_name": "Roccagloriosa, Salerno, Campania, Italia",
+    "query": "Roccagloriosa"
+  },
+  "Italia||Roma": {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "display_name": "Roma, Roma Capitale, Lazio, Italia",
+    "query": "Roma"
+  },
+  "Italia||Salernum, Salerno": {
+    "lat": 40.4194416,
+    "lon": 15.3106085,
+    "display_name": "Salerno, Campania, Italia",
+    "query": "Salerno"
+  },
+  "Italia||Septempeda, San Severino": {
+    "lat": 43.2290211,
+    "lon": 13.1779663,
+    "display_name": "San Severino Marche, Macerata, Marche, Italia",
+    "query": "manual fix"
+  },
+  "Italia||Tibur, Tivoli": {
+    "lat": 41.960922,
+    "lon": 12.798884,
+    "display_name": "Tivoli, Roma Capitale, Lazio, Italia",
+    "query": "Tivoli"
+  },
+  "Italia||Tiriolo": {
+    "lat": 38.9473164,
+    "lon": 16.5086089,
+    "display_name": "Tiriolo, Catanzaro, Calabria, 88056, Italia",
+    "query": "Tiriolo"
+  },
+  "Italia||Urbs Salvia, Urbisaglia": {
+    "lat": 43.1972449,
+    "lon": 13.3773817,
+    "display_name": "Urbisaglia, Macerata, Marche, Italia",
+    "query": "Urbisaglia"
+  },
+  "Italia||Verona": {
+    "lat": 45.4424977,
+    "lon": 10.9857377,
+    "display_name": "Verona, Veneto, Italia",
+    "query": "Verona"
+  },
+  "Italia||Volaterrae, Volterra": {
+    "lat": 43.400337,
+    "lon": 10.860019,
+    "display_name": "Volterra, Pisa, Toscana, 56048, Italia",
+    "query": "Volterra"
+  },
+  "Noricum||Poetovio, Ptuj": {
+    "lat": 46.4198096,
+    "lon": 15.8717378,
+    "display_name": "Ptuj, 2250, Slovenija",
+    "query": "Ptuj"
+  },
+  "Pannonia||Aquincum, Budapest": {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "display_name": "Budapest, Közép-Magyarország, Magyarország",
+    "query": "Budapest"
+  },
+  "Pannonia||Carnuntum, Petronell": {
+    "lat": 48.1141485,
+    "lon": 16.8657834,
+    "display_name": "Petronell-Carnuntum, Bezirk Bruck an der Leitha, Niederösterreich, 2404, Österreich",
+    "query": "Petronell"
+  },
+  "Pannonia||Emona, Ljublana": {
+    "lat": 46.0452733,
+    "lon": 14.5017011,
+    "display_name": "Emona, Mirje, Krakovo, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "query": "Emona"
+  },
+  "Pannonia||Locus Incertus": null,
+  "Pannonia||Savaria, Szombáthely": {
+    "lat": 47.2291184,
+    "lon": 16.6187625,
+    "display_name": "Szombathely, Szombathelyi járás, Vas vármegye, Nyugat-Dunántúl, Dunántúl, Magyarország",
+    "query": "Szombáthely"
+  },
+  "Pannonia||Siscia, Sisak": {
+    "lat": 45.489175,
+    "lon": 16.3746041,
+    "display_name": "Grad Sisak, Sisačko-moslavačka županija, Hrvatska",
+    "query": "Sisak"
+  },
+  "Raetia||Abusina, Eining": {
+    "lat": 48.8544634,
+    "lon": 11.771948,
+    "display_name": "Eining, Neustadt an der Donau, Landkreis Kelheim, Bayern, 93333, Deutschland",
+    "query": "Eining"
+  },
+  "Raetia||Brigantium, Bregenz": {
+    "lat": 47.5025779,
+    "lon": 9.7472924,
+    "display_name": "Bregenz, Bezirk Bregenz, Vorarlberg, Österreich",
+    "query": "Bregenz"
+  },
+  "Raetia||Cambodunum, Kempten": {
+    "lat": 47.7267063,
+    "lon": 10.3168835,
+    "display_name": "Kempten (Allgäu), Bayern, Deutschland",
+    "query": "Kempten"
+  },
+  "Raetia||Faviana, Mautern": {
+    "lat": 48.3882575,
+    "lon": 15.5836483,
+    "display_name": "Katastralgemeinde Mautern, Baumgarten, Mautern an der Donau, Bezirk Krems, Niederösterreich, Österreich",
+    "query": "Mautern"
+  },
+  "Raetia||Peiting": {
+    "lat": 47.7959863,
+    "lon": 10.9228731,
+    "display_name": "Peiting, Landkreis Weilheim-Schongau, Bayern, 86971, Deutschland",
+    "query": "Peiting"
+  },
+  "Raetia||Veldidena, Wilten": {
+    "lat": 47.2590472,
+    "lon": 11.3953024,
+    "display_name": "Wilten, Innsbruck, Tirol, Österreich",
+    "query": "Wilten"
+  }
+}
